@@ -1,0 +1,4 @@
+Copy and Paste these files into assets/sm
+They will appear in Freeplay
+
+No guarantees on crashing.

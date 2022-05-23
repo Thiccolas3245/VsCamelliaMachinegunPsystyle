@@ -1,0 +1,4 @@
+This notepad is going to be here for thise that are messing with my files.
+
+It is utterly awful in here, I don't consider this to be an example of good code.
+Also, its called suffering, because getting these charts from arrowvortex into fnf was a nightmare. First, ETEA refused to convert properly, and it took me a whole DAY to figure out what was wrong with it, which it turned out to be the music. Then, both ETEA and The Castle Town crashed Kade any time you tried to load the chart's JSON, and then once I got ETEA working, it was 0.23 seconds off note, which I had to fix by shooting the first bar of the song to 500 bpm. Now as I write this, The Castle Town is completely broken, but that is fine because I didn't really need to have it in the mod. 
