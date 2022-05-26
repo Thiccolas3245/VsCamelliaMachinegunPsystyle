@@ -61,11 +61,9 @@ class StoryMenuState extends MusicBeatState
 	function unlockWeeks():Array<Bool>
 	{
 		var weeks:Array<Bool> = [];
-		#if debug
 		for(i in 0...weekNames.length)
 			weeks.push(true);
 		return weeks;
-		#end
 		
 		weeks.push(true);
 
